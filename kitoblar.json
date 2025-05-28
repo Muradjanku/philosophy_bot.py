@@ -1,0 +1,38 @@
+[
+  {
+    "nomi": "Metafizika",
+    "muallif": "Aristotel",
+    "til": "O'zbek",
+    "yil": 2020
+  },
+  {
+    "nomi": "Shifo",
+    "muallif": "Ibn Sino",
+    "til": "O'zbek",
+    "yil": 2018
+  },
+  {
+    "nomi": "Sof aql tanqidi",
+    "muallif": "Immanuil Kant",
+    "til": "O'zbek",
+    "yil": 2017
+  },
+  {
+    "nomi": "Критика чистого разума",
+    "muallif": "Иммануил Кант",
+    "til": "Rus",
+    "yil": 2019
+  },
+  {
+    "nomi": "Метафизика",
+    "muallif": "Аристотель",
+    "til": "Rus",
+    "yil": 2015
+  },
+  {
+    "nomi": "Философия существования",
+    "muallif": "Жан-Поль Сартр",
+    "til": "Rus",
+    "yil": 2021
+  }
+]
