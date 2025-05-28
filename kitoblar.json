@@ -1,93 +1,36 @@
-[
-  {
-    "nomi": "Metafizika",
-    "muallif": "Aristotel",
-    "til": "O'zbek",
-    "yil": 2020,
-    "tavsif": "Borliqning tabiati, narsalar, voqelik va ularning xususiyatlarini o‘rganadi."
-  },
-  {
-    "nomi": "Shifo",
-    "muallif": "Ibn Sino",
-    "til": "O'zbek",
-    "yil": 2018,
-    "tavsif": "Falsafa va tibbiyot sohasidagi buyuk asar."
-  },
-  {
-    "nomi": "Sof aql tanqidi",
-    "muallif": "Immanuil Kant",
-    "til": "O'zbek",
-    "yil": 2017,
-    "tavsif": "Bilim va aql chegaralari haqida."
-  },
-  {
-    "nomi": "Критика чистого разума",
-    "muallif": "Иммануил Кант",
-    "til": "Rus",
-    "yil": 2019,
-    "tavsif": "О познании и разуме."
-  },
-  {
-    "nomi": "Метафизика",
-    "muallif": "Аристотель",
-    "til": "Rus",
-    "yil": 2015,
-    "tavsif": "Изучение природы бытия и реальности."
-  },
-  {
-    "nomi": "Философия существования",
-    "muallif": "Жан-Поль Сартр",
-    "til": "Rus",
-    "yil": 2021,
-    "tavsif": "Изучение существования, свободы и смысла жизни."
-  },
-  {
-    "nomi": "Axloq (Etika)",
-    "muallif": "Jeremy Bentham, Jon Styuart Mill, Immanuil Kant",
-    "til": "O'zbek",
-    "yil": 2010,
-    "tavsif": "To‘g‘ri va noto‘g‘ri xatti-harakatlar, axloqiy qadriyatlar."
-  },
-  {
-    "nomi": "Epistemologiya",
-    "muallif": "Rene Dekart, Jon Lokk",
-    "til": "O'zbek",
-    "yil": 2011,
-    "tavsif": "Bilimning mohiyati, uning manbalari va chegaralari."
-  },
-  {
-    "nomi": "Ekzistensializm",
-    "muallif": "Jan-Pol Sartr, Fridrix Nitsshe",
-    "til": "O'zbek",
-    "yil": 2013,
-    "tavsif": "Insonning mavjudligi, erkinligi va hayot ma’nosi."
-  },
-  {
-    "nomi": "Analitik falsafa",
-    "muallif": "Lyudvig Vitgenshtayn, Bertrand Rassel",
-    "til": "O'zbek",
-    "yil": 2014,
-    "tavsif": "Mantiq, til tahlili va aniq fikrlashga urg‘u."
-  },
-  {
-    "nomi": "Kontinental falsafa",
-    "muallif": "Edmund Husserl, Martin Xaydegger, Mishel Fuko, Jak Derrida",
-    "til": "O'zbek",
-    "yil": 2015,
-    "tavsif": "Inson tajribasi, madaniyat va tarixga e’tibor."
-  },
-  {
-    "nomi": "Sharq falsafasi",
-    "muallif": "Lao-tszi, Buddha",
-    "til": "O'zbek",
-    "yil": 2012,
-    "tavsif": "Konfutsiyizm, Taoizm, Buddizm va boshqa an’analar."
-  },
-  {
-    "nomi": "Siyosiy falsafa",
-    "muallif": "Jon Lokk, Tomas Gobbs, Karl Marks",
-    "til": "O'zbek",
-    "yil": 2016,
-    "tavsif": "Jamiyat, hokimiyat va adolat masalalari."
-  }
-]
+{
+  "books": [
+    {
+      "title": "Abu Nasr Forobiy",
+      "level": "Oliy ta‘lim",
+      "created_date": "2023-09-03",
+      "source_url": "https://library.ziyonet.uz/uz/book/996",
+      "download_link": "Not directly available. Access requires registration on ZiyoNET[](https://library.ziyonet.uz). Please log in or check the platform for download options."
+    },
+    {
+      "title": "Mustaqillik va inson falsafasi",
+      "author": "D.Yu.Yuldasheva",
+      "published_year": 2004,
+      "level": "Oliy ta‘lim",
+      "created_date": "2023-09-03",
+      "source_url": "https://library.ziyonet.uz/uz/book/1024",
+      "download_link": "Not directly available. Access requires registration on ZiyoNET[](https://library.ziyonet.uz). Please log in or check the platform for download options."
+    },
+    {
+      "title": "Falsafa",
+      "author": "Xo‘jaumarodov",
+      "published_year": 2007,
+      "level": "Oliy ta‘lim",
+      "created_date": "2023-09-03",
+      "source_url": "https://library.ziyonet.uz/uz/book/1362",
+      "download_link": "Not directly available. Access requires registration on ZiyoNET[](https://library.ziyonet.uz). Please log in or check the platform for download options."
+    },
+    {
+      "title": "Unknown (No specific title provided for book ID 1671)",
+      "level": "Oliy ta‘lim",
+      "created_date": "2023-09-03",
+      "source_url": "https://library.ziyonet.uz/uz/book/1671",
+      "download_link": "Not directly available. Access requires registration on ZiyoNET[](https://library.ziyonet.uz). Please log in or check the platform for download options."
+    }
+  ]
+}
