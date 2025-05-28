@@ -1,142 +1,26 @@
-{
-  "books": [
-    {
-      "title": "Vatan tuyg'usi",
-      "author": "Abduqahhor Ibrohimov, Xayriddin Sultonov, Narzulla Jo'rayev",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Madaniyat falsafasi",
-      "author": "Abduvohid Ochildiiyev",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Qonunlar",
-      "author": "Aflotun",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Inson falsafasi (1-kitob)",
-      "author": "Anvar Choriyev",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Dunyoni bilishda til va tafakkur birligi",
-      "author": "Bahrom Ismoilov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Komillikka eltuvchi kitob",
-      "author": "Bo'ri Ziyomuhammadov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Inson kamolotining ma'naviy asoslari",
-      "author": "Erkin Yusupov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Demokratik davlat qurishning falsafiy-huquqiy asoslari",
-      "author": "Faxriddin Musayev",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Falsafa tarixi",
-      "author": "Gunnar Skirbekk, Nils Gilye",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Pedagogika to'g'risida",
-      "author": "Immanuil Kant",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Hayot falsafasi",
-      "author": "Jondor Tulenov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Komil inson haqida to'rt risola",
-      "author": "Unknown",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "O'zbek xarakteri va milliy g'oya",
-      "author": "Muhammad Quronov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Tarix falsafasining nazariy asoslari",
-      "author": "Narzulla Jo'rayev",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Fuqarolik jamiyatining shakllanishi sharoitida O'zbekiston yoshlarining ijtimoiylashuv jarayonlari",
-      "author": "O'tkir Qayumov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Qalb mo'jizalari",
-      "author": "Ozod Mo'min Xo'ja",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Bilish falsafasi",
-      "author": "Qiyom Nazarov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Qadriyatlar falsafasi",
-      "author": "Qiyom Nazarov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "G'oyalar falsafasi",
-      "author": "Qiyomiddin Nazarov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Milliy tafakkur taraqqiyotidan",
-      "author": "Tohir Karim",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Falsafa yoxud fikrlash chanqog'i",
-      "author": "Viktor Alimasov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Falsafa yoxud fikrlash lazzati",
-      "author": "Viktor Alimasov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    },
-    {
-      "title": "Konfutsiylik va sharq davlatchiligi",
-      "author": "Viktor Alimasov",
-      "field": "Falsafiy fanlar",
-      "degree": "Bakalavr, Magistr, PhD, Dc"
-    }
-  ]
-}
+[
+  {
+    "nomi": "Falsafa asoslari",
+    "muallif": "Abdulla Qodiriy",
+    "yil": 2020,
+    "til": "O'zbek"
+  },
+  {
+    "nomi": "Falsafa tarixi",
+    "muallif": "Beruniy",
+    "yil": 2019,
+    "til": "O'zbek"
+  },
+  {
+    "nomi": "Основы философии",
+    "muallif": "Алексей Иванов",
+    "yil": 2018,
+    "til": "Rus"
+  },
+  {
+    "nomi": "История философии",
+    "muallif": "Сергей Соловьев",
+    "yil": 2021,
+    "til": "Rus"
+  }
+]
